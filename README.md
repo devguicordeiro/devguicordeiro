@@ -1,3 +1,5 @@
+<div align="center">
+
 ### 🌎 Welcome to my World</br>
 👋 Hi there, I'm Guilherme</br>
 💻 Web Development (01.01.2023 - ♾️)</br>
@@ -33,4 +35,6 @@
 <div>
   <a href="https://github.com/devguicordeiro">
   <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=devguicordeiro&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+</div>
+
 </div>
