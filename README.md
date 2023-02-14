@@ -28,4 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width="50px" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" align="center" />
-</div></br>
+</div></br></br>
+
+<div>
+  <a href="https://github.com/devguicordeiro">
+  <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=devguicordeiro&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+</div>
