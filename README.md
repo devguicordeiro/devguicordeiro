@@ -31,12 +31,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width="50px" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" align="center" />
 </div>
-
+</br>
 <div>
-  <a href="https://github.com/devguicordeiro">
-  <img src="https://github-readme-stats.vercel.app/api?username=devguicordeiro&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
-    </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguicordeiro&layout=compact&langs_count=7&theme=highcontrast"/>
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=devguicordeiro&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
 </div>
 
 </div>
