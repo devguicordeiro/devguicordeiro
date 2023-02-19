@@ -16,14 +16,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50px" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" align="center" />
 </div></br>
 
 ### ⚙️ Tools I'm also familiar with</br>
 
 <div style="display:inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" align="center"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50px" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50px" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" align="center" />
@@ -34,6 +32,7 @@
 </br>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguicordeiro&layout=compact&langs_count=7&theme=highcontrast"/>
+  </br>
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=devguicordeiro&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
 </div>
