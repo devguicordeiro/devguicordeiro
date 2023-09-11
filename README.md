@@ -2,7 +2,8 @@
 
 ### 🌎 Welcome to my World</br>
 👋 Hi there, I'm Guilherme</br>
-💻 Web Development (01.01.2023 - ♾️)</br>
+💻 Web development (01.01.2023 - ♾️)</br>
+🤖 Machine learning </br>
 👨‍💻 Self-taught programmer</br>
 🥾 Trail running and Trekking</br>
 🇧🇷 But also speaks English and German</br>
