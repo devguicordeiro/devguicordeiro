@@ -31,7 +31,7 @@
 </br>  
 </br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=devguicordeiro&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" width="350"/>       
+  <img src="https://github-readme-stats.vercel.app/api?username=devguicordeiro&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" width="400"/>       
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devguicordeiro&layout=compact&langs_count=7&theme=highcontrast" width="400"/>
 </div>
 
